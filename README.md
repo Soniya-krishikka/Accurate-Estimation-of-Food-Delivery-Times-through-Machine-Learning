@@ -1,0 +1,2 @@
+# Accurate-Estimation-of-Food-Delivery-Times-through-Machine-Learning
+This machine learning project focuses on accurately predicting food delivery times using an LSTM neural network model. By analyzing historical delivery data, the project aims to enhance the precision of delivery time estimates, which can significantly improve customer satisfaction and operational efficiency in the food delivery industry.
